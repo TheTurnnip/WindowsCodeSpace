@@ -1,0 +1,5 @@
+{
+  "image": "ubuntu:latest",
+  "init": true,
+  "privileged": true
+}
